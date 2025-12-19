@@ -1,6 +1,6 @@
-# FE & Linux Learning Log
+## 🌍 Languages
 
-📘 English: README_EN.md  
-🇯🇵 日本語: README_JP.md  
-🇨🇳 中文: README_CN.md  
-🇩🇪 Deutsch: README_DE.md
+- 🇬🇧 English → [English README](en/README.md)
+- 🇯🇵 日本語 → [日本語 README](jp/README.md)
+- 🇨🇳 中文 → [中文 README](cn/README.md)
+- 🇩🇪 Deutsch → [Deutsch README](de/README.md)
