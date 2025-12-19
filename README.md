@@ -1,64 +1,6 @@
-# FE & Linux Learning Log 🐧🪿
+# FE & Linux Learning Log
 
-Hi, I'm learning computer science fundamentals **by doing**.
-
-This repository is my personal learning log for:
-- Fundamental Information Technology Engineer Exam (FE)
-- Linux basics (with Raspberry Pi)
-- Algorithms & data structures
-
-Not a tutorial.
-Not a polished product.
-Just honest learning records.
-
----
-
-## Why
-
-I want to become someone who can *build, understand, and fix things*.
-
-I don't aim to be a specialist locked in one box.
-I aim to be **the kind of engineer who can connect dots across layers**:
-hardware, OS, networks, and applications.
-
-I want to become someone who can do a bit of everything.  
-Curiosity is the engine that drives me. 🚗⛽️
-
----
-
-## What I'm doing now
-
-- Reviewing FE topics (network, DB, algorithms)
-- Practicing Linux commands and system basics
-- Running small experiments on Raspberry Pi 5
-
-I learn best by:
-- writing things in my own words
-- breaking stuff
-- fixing it again
-
----
-
-## Roadmap (2025–2026)
-
-Planned certifications (subject to curiosity explosions):
-
-- FE (Fundamental Information Technology Engineer)
-- AP (Applied Information Technology Engineer)
-- LPIC-2
-- AWS Certified Solutions Architect – Associate (SAA)
-
-Certifications are not the goal.
-Understanding systems is.
-
----
-
-## Rules of this repo
-
-- Keep things simple
-- Don't pretend to understand what I don't
-- Small progress is still progress
-- Logs over perfection
-
-If something here looks messy,  
-that's probably because I was learning for real.
+📘 English: README_EN.md  
+🇯🇵 日本語: README_JP.md  
+🇨🇳 中文: README_CN.md  
+🇩🇪 Deutsch: README_DE.md
